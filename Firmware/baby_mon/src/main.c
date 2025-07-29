@@ -50,7 +50,7 @@
 #define COLOR_BLUE 2
 #define COLOR_BLACK 3
 #define COLOR_WHITE 4
-#define COLOR_ORANGE 4
+#define COLOR_ORANGE 5
 
 uint8_t sphr_data[8];
 
